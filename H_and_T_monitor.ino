@@ -2,8 +2,6 @@
 #include <DHT.h>
 #include <DHT_U.h>
 
-#include "thingProperties.h"
-#include "DHT.h"
 
 #define DHTPIN 4    
 #define DHTTYPE DHT22 
